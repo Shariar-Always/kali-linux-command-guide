@@ -14,14 +14,14 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/license/Shariar-Ahamed/kali-linux-command-guide">
-  <img src="https://img.shields.io/github/repo-size/Shariar-Ahamed/kali-linux-command-guide">
-  <img src="https://img.shields.io/github/last-commit/Shariar-Ahamed/kali-linux-command-guide">
+  <img src="https://img.shields.io/github/license/Shariar-Always/kali-linux-command-guide">
+  <img src="https://img.shields.io/github/repo-size/Shariar-Always/kali-linux-command-guide">
+  <img src="https://img.shields.io/github/last-commit/Shariar-Always/kali-linux-command-guide">
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/stars/Shariar-Ahamed/kali-linux-command-guide?style=social">
-  <img src="https://img.shields.io/github/forks/Shariar-Ahamed/kali-linux-command-guide?style=social">
+  <img src="https://img.shields.io/github/stars/Shariar-Always/kali-linux-command-guide?style=social">
+  <img src="https://img.shields.io/github/forks/Shariar-Always/kali-linux-command-guide?style=social">
 </p>
 
 
